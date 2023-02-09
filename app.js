@@ -78,3 +78,4 @@ function getColorsFromHash(){
 }
 
 setRandomColors(true)
+
